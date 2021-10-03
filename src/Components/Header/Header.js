@@ -8,14 +8,14 @@ const Header = () => {
             <div className="navigation">
                 <Nav variant="pills" className="nav-items">
                     <Nav.Item className="mx-3">
-                        <Nav.Link href="/home">Active</Nav.Link>
+                        <Nav.Link href="/home">Home</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="mx-3">
-                        <Nav.Link eventKey="link-1">Option 2</Nav.Link>
+                        <Nav.Link eventKey="link-1">Courses</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="mx-3">
                         <Nav.Link eventKey="disabled">
-                            Disabled
+                            Programs
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="mx-3">
