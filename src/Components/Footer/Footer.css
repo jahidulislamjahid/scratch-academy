@@ -2,7 +2,15 @@
     color: white;
     background-color: black;
     position: relative;
-    padding: 3em;
+    padding: 2em;
     top: 100vh;
     width: 100%;
+}
+
+.list-text{
+    list-style: none;
+    font-weight: 700;
+}
+ul>li{
+    margin-bottom: 10px;
 }
