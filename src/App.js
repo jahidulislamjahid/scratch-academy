@@ -9,6 +9,7 @@ import Home from './Components/Home/Home';
 import { BrowserRouter as Router, NavLink, Switch, Route } from 'react-router-dom';
 import { AccordionButton, Nav } from 'react-bootstrap';
 import About from './Components/About/About';
+import Notfound from './Components/Notfound/Notfound';
 
 function App() {
   return (
@@ -48,6 +49,9 @@ function App() {
           </Route>
           <Route path="/About">
             <About></About>
+          </Route>
+          <Route path="*">
+            <Notfound></Notfound>
           </Route>
         </Switch>
       </Router>
