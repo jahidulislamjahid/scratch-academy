@@ -1,0 +1,134 @@
+[
+  {
+    "keys": "+880",
+    "id": 1,
+    "image": "./images/jobs.jpg",
+    "name": "Steven Paul Jobs",
+    "gender": "Male",
+    "age": 75,
+    "country": "USA",
+    "headOfGovt": "Apple Computer",
+    "Salary": 500000
+  },
+  {
+    "keys": "+91",
+    "id": 2,
+    "image": "./images/gates.jpg",
+    "name": "Bill Gates",
+    "gender": "Male",
+    "age": 80,
+    "country": "USA",
+    "headOfGovt": "Microsoft",
+    "Salary": 60000
+  },
+  {
+    "keys": "+1",
+    "id": 3,
+    "image": "./images/bezzos.jpg",
+    "name": "Jeff Bezzos",
+    "gender": "Male",
+    "age": 60,
+    "country": "USA",
+    "headOfGovt": "Amazon inc.",
+    "Salary": 70000
+  },
+  {
+    "keys": "+64",
+    "id": 4,
+    "image": "./images/musk.jpg",
+    "name": "Elon Musk",
+    "gender": "Male",
+    "age": 40,
+    "country": "Canada",
+    "headOfGovt": "Tesla Inc.",
+    "Salary": 620000
+  },
+  {
+    "keys": "+55",
+    "id": 5,
+    "image": "./images/cook.jpg",
+    "name": "Tim Cook",
+    "gender": "Male",
+    "age": 60,
+    "country": "America",
+    "headOfGovt": "CEO Of Apple",
+    "Salary": 60000
+  },
+  {
+    "keys": "+49",
+    "id": 6,
+    "image": "./images/pei.jpg",
+    "name": "Carl Pei",
+    "gender": "Male",
+    "age": 60,
+    "country": "China",
+    "headOfGovt": "CEO Of Nothing Inc.",
+    "Salary": 70000
+  },
+  {
+    "keys": "+92",
+    "id": 7,
+    "image": "./images/ma.jpg",
+    "name": "Jack Ma",
+    "gender": "Male",
+    "age": 60,
+    "country": "China",
+    "headOfGovt": "CEO Of Alibaba",
+    "Salary": 50000
+  },
+  {
+    "keys": "+61",
+    "id": 8,
+    "image": "./images/su.jpg",
+    "name": "Dr. Lisa Su",
+    "gender": "Frmale",
+    "age": 60,
+    "country": "Taiwan",
+    "headOfGovt": "CEO Of AMD",
+    "Salary": 60000
+  },
+  {
+    "keys": "+44",
+    "id": 9,
+    "image": "./images/linus.jpg",
+    "name": "Linus Torvald",
+    "gender": "Male",
+    "age": 60,
+    "country": "Finland",
+    "headOfGovt": "Inventor Of Linux Karnel",
+    "Salary": 60000
+  },
+  {
+    "keys": "+60",
+    "id": 10,
+    "image": "./images/una.jpg",
+    "name": "Una Kravets",
+    "gender": "Female",
+    "age": 60,
+    "country": "America",
+    "headOfGovt": "Developer at Google",
+    "Salary": 80000
+  },
+  {
+    "keys": "+94",
+    "id": 11,
+    "image": "./images/lau.jpg",
+    "name": "Pete Lau",
+    "gender": "Male",
+    "age": 60,
+    "country": "China",
+    "headOfGovt": "CEO Of Oneplus",
+    "Salary": 50000
+  },
+  {
+    "keys": "+256",
+    "id": 12,
+    "image": "./images/ada.jpg",
+    "name": "Limor Fried",
+    "gender": "Female",
+    "age": 60,
+    "country": "America",
+    "headOfGovt": "CEO Of Adafruit Inc",
+    "Salary": 40000
+  }
+]

@@ -16,7 +16,7 @@ const Footer = () => {
                         <h1>section 3</h1>
                     </div>
                 </div>
-                <p>&copy;All Right Reserved </p>
+                <p>&copy;{new Date().getFullYear()}All Right Reserved </p>
             </div>
         </div>
     );
