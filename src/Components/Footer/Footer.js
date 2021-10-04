@@ -3,11 +3,21 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div>
-            <h1 className="text">hello from footer</h1>
-            <footer>
-                <h2>hi there im footer</h2>
-            </footer>
+        <div className="footer-main">
+            <div className="container">
+                <div className="row">
+                    <div className="col">
+                        <h1>section 1</h1>
+                    </div>
+                    <div className="col">
+                        <h1>section 2</h1>
+                    </div>
+                    <div className="col">
+                        <h1>section 3</h1>
+                    </div>
+                </div>
+                <p>&copy;All Right Reserved </p>
+            </div>
         </div>
     );
 };
