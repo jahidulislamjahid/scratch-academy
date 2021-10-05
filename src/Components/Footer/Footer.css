@@ -3,8 +3,9 @@
     background-color: black;
     position: relative;
     padding: 2em;
-    /* bottom: -100vh; */
+    /* bottom: 100%; */
     /* top: 100vh; */
+    top: auto;
     width: 100%;
 }
 
