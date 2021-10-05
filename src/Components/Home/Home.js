@@ -13,9 +13,9 @@ const Home = () => {
     }, []);
     return (
 
-        <div>
+        <div className="container-fluid">
             <div className="home-section">
-                <div className="conatiner">
+                <div>
                     <Carousel>
                         <Carousel.Item>
                             <img
@@ -64,9 +64,9 @@ const Home = () => {
                             <div className="logo-image">
                                 <img className="w-25 my-3" src={course.img} alt="" />
                             </div>
-                            <h2> <strong>Course: </strong>{course.course}</h2>
-                            <h3 className="fw-bold">Price : ${course.price}</h3>
-                            <h5>Contact : {course.Contact}</h5>
+                            <h3> <strong>Course: </strong>{course.course}</h3>
+                            <h4 className="fw-bold">Price : ${course.price}</h4>
+                            <h5>Lecturer : {course.Contact}</h5>
                             <Button className="btn-warning px-5"> <strong>Enroll</strong> </Button>
                         </div>
                     </div>))
