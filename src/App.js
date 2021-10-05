@@ -10,6 +10,7 @@ import { BrowserRouter as Router, NavLink, Switch, Route } from 'react-router-do
 import { AccordionButton, Nav } from 'react-bootstrap';
 import About from './Components/About/About';
 import Notfound from './Components/Notfound/Notfound';
+import Career from './Components/Career/Career';
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
       <Router>
         <nav className="container-fluid sticky-top bg-dark p-2">
           <div className="d-flex">
-            <h3 className="text-white ps-3 me-5">Scratch Academy</h3>
+            <h3 className="text-white ps-3 me-5" onClick={reload}>Scratch Academy</h3>
             <NavLink to="/Home">
               <h3 className="txt-style px-3 mx-3 text-white">Home</h3>
             </NavLink>
@@ -50,6 +51,9 @@ function App() {
           <Route path="/About">
             <About></About>
           </Route>
+          <Route path="/Career">
+            <Career></Career>
+          </Route>
           <Route path="*">
             <Notfound></Notfound>
           </Route>
@@ -58,6 +62,10 @@ function App() {
       <Footer />
     </div>
   );
+}
+
+const reload = () => {
+  window.location.reload();
 }
 
 export default App;

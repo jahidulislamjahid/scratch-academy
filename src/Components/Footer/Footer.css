@@ -3,7 +3,8 @@
     background-color: black;
     position: relative;
     padding: 2em;
-    top: 100vh;
+    /* bottom: -100vh; */
+    /* top: 100vh; */
     width: 100%;
 }
 
