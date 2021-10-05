@@ -1,0 +1,46 @@
+[
+  {
+    "keys": "+880",
+    "id": 1,
+    "image": "./images/Hasina.png",
+    "name": "Sheikh Hasina",
+    "gender": "Female",
+    "age": 75,
+    "country": "Bangladesh",
+    "headOfGovt": "Prime Minister",
+    "Salary": 500000
+  },
+  {
+    "keys": "+91",
+    "id": 2,
+    "image": "./images/Modi.jpg",
+    "name": "Narenda Modi",
+    "gender": "Male",
+    "age": 80,
+    "country": "India",
+    "headOfGovt": "Prime Minister",
+    "Salary": 60000
+  },
+  {
+    "keys": "+1",
+    "id": 3,
+    "image": "./images/Trudeau.jpg",
+    "name": "Justin Trudeau",
+    "gender": "Male",
+    "age": 60,
+    "country": "Canada",
+    "headOfGovt": "Prime Minister",
+    "Salary": 70000
+  },
+  {
+    "keys": "+64",
+    "id": 4,
+    "image": "./images/Jacinda.jpg",
+    "name": "Jacinda Ardern",
+    "gender": "Female",
+    "age": 40,
+    "country": "New Zealand",
+    "headOfGovt": "Prime Minister",
+    "Salary": 620000
+  }
+]
