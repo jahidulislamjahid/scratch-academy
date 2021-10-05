@@ -1,134 +1,74 @@
 [
-  {
-    "keys": "+880",
-    "id": 1,
-    "image": "./images/jobs.jpg",
-    "name": "Steven Paul Jobs",
-    "gender": "Male",
-    "age": 75,
-    "country": "USA",
-    "headOfGovt": "Apple Computer",
-    "Salary": 500000
-  },
-  {
-    "keys": "+91",
-    "id": 2,
-    "image": "./images/gates.jpg",
-    "name": "Bill Gates",
-    "gender": "Male",
-    "age": 80,
-    "country": "USA",
-    "headOfGovt": "Microsoft",
-    "Salary": 60000
-  },
-  {
-    "keys": "+1",
-    "id": 3,
-    "image": "./images/bezzos.jpg",
-    "name": "Jeff Bezzos",
-    "gender": "Male",
-    "age": 60,
-    "country": "USA",
-    "headOfGovt": "Amazon inc.",
-    "Salary": 70000
-  },
-  {
-    "keys": "+64",
-    "id": 4,
-    "image": "./images/musk.jpg",
-    "name": "Elon Musk",
-    "gender": "Male",
-    "age": 40,
-    "country": "Canada",
-    "headOfGovt": "Tesla Inc.",
-    "Salary": 620000
-  },
-  {
-    "keys": "+55",
-    "id": 5,
-    "image": "./images/cook.jpg",
-    "name": "Tim Cook",
-    "gender": "Male",
-    "age": 60,
-    "country": "America",
-    "headOfGovt": "CEO Of Apple",
-    "Salary": 60000
-  },
-  {
-    "keys": "+49",
-    "id": 6,
-    "image": "./images/pei.jpg",
-    "name": "Carl Pei",
-    "gender": "Male",
-    "age": 60,
-    "country": "China",
-    "headOfGovt": "CEO Of Nothing Inc.",
-    "Salary": 70000
-  },
-  {
-    "keys": "+92",
-    "id": 7,
-    "image": "./images/ma.jpg",
-    "name": "Jack Ma",
-    "gender": "Male",
-    "age": 60,
-    "country": "China",
-    "headOfGovt": "CEO Of Alibaba",
-    "Salary": 50000
-  },
-  {
-    "keys": "+61",
-    "id": 8,
-    "image": "./images/su.jpg",
-    "name": "Dr. Lisa Su",
-    "gender": "Frmale",
-    "age": 60,
-    "country": "Taiwan",
-    "headOfGovt": "CEO Of AMD",
-    "Salary": 60000
-  },
-  {
-    "keys": "+44",
-    "id": 9,
-    "image": "./images/linus.jpg",
-    "name": "Linus Torvald",
-    "gender": "Male",
-    "age": 60,
-    "country": "Finland",
-    "headOfGovt": "Inventor Of Linux Karnel",
-    "Salary": 60000
-  },
-  {
-    "keys": "+60",
-    "id": 10,
-    "image": "./images/una.jpg",
-    "name": "Una Kravets",
-    "gender": "Female",
-    "age": 60,
-    "country": "America",
-    "headOfGovt": "Developer at Google",
-    "Salary": 80000
-  },
-  {
-    "keys": "+94",
-    "id": 11,
-    "image": "./images/lau.jpg",
-    "name": "Pete Lau",
-    "gender": "Male",
-    "age": 60,
-    "country": "China",
-    "headOfGovt": "CEO Of Oneplus",
-    "Salary": 50000
-  },
-  {
-    "keys": "+256",
-    "id": 12,
-    "image": "./images/ada.jpg",
-    "name": "Limor Fried",
-    "gender": "Female",
-    "age": 60,
-    "country": "America",
-    "headOfGovt": "CEO Of Adafruit Inc",
-    "Salary": 40000
-  }
+    {
+        "course": "Machine Learning",
+        "Contact": 9987654321,
+        "price": 79,
+        "img": "https://www.wileyindia.com/pub/media/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/9/7/9789389520910.jpg"
+    },
+    {
+        "course": "Python",
+        "Contact": 9987654321,
+        "price": 35,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41z1V0zP2WL.jpg"
+    },
+    {
+        "course": "Deep Learning",
+        "Contact": 9987654321,
+        "price": 80,
+        "img": "https://m.media-amazon.com/images/I/51SMaS8VQcL.jpg"
+    },
+    {
+        "course": "AI & Neural Network",
+        "Contact": 9987654321,
+        "price": 89,
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575977049l/49196683._SY475_.jpg"
+    },
+    {
+        "course": "Blockchain",
+        "Contact": 9987654321,
+        "price": 70,
+        "img": "https://5.imimg.com/data5/SU/OH/MY-31892569/php-programming-book-500x500.png"
+    },
+    {
+        "course": "Ethical Hacking",
+        "Contact": 9987654321,
+        "price": 70,
+        "img": "https://www.wileyindia.com/pub/media/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/9/7/9789389520910.jpg"
+    },
+    {
+        "course": "Object Oriented C",
+        "Contact": 9987654321,
+        "price": 50,
+        "img": "https://www.wileyindia.com/pub/media/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/9/7/9789389520910.jpg"
+    },
+    {
+        "course": " Beginer C++",
+        "Contact": 9987654321,
+        "price": 40,
+        "img": "https://5.imimg.com/data5/QG/HJ/MY-4078569/visual-basic-programming-book-500x500.png"
+    },
+    {
+        "course": "Maya Master Class",
+        "Contact": 9987654321,
+        "price": 60,
+        "img": "https://kbimages1-a.akamaihd.net/7ae0dcb0-f989-4b9c-8a87-5b69b86dccc4/353/569/90/False/c-programming-basics-learn-c-coding-for-beginners-book-1.jpg"
+    },
+    {
+        "course": "Autodesk Autocad",
+        "Contact": 9987654321,
+        "price": 49,
+        "img": "https://tutorialzine.com/media/2018/01/NodeJs_Succinctly2.jpg"
+    },
+    {
+        "course": "Javascript",
+        "Contact": 9987654321,
+        "price": 40,
+        "img": "https://www.codingdojo.com/blog/wp-content/uploads/Coders-at-Work-203x300.jpg"
+    },
+    {
+        "course": "Unity 3D",
+        "Contact": 9987654321,
+        "price": 85,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41oBJp9leBL.jpg"
+    }
 ]
